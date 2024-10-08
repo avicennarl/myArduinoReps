@@ -15,6 +15,7 @@ Panduan penyambungan telah disediakan di dalam kode. Pastikan untuk mengikuti in
 
 - **Tanggal:** 08 Oktober 2024
 - **Catatan:** Berhasil menerapkan logika sederhana pengiriman data ke motor stepper menggunakan Visual Basic. Karena kurangnya waktu, jadi butuh pengembangan untuk pengembalian arah dan arah putaran servo ke derajat lainnya
+-  [Video Dokumentasi 08 Oktober 2024](dokumentasi/video6064347337797407990.mp4)
 
 ## Terima Kasih!
 
