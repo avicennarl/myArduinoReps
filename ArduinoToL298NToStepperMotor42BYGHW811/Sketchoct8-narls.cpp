@@ -5,6 +5,12 @@ Urusan pinout
 -format: Arduino - L298N
 -- 5v Ardu - 12v L298N
 -- GND Ardu - GND L298N
+-- pastikan jumper depan plug 12V pada L298N tersambung!!
+-- ENA dan ENB pada L298N masing-masing terjumper depan belakang
+-- Pin 8 Ardu - IN1 LN298N
+-- Pin 9 Ardu - IN2 LN298N
+-- Pin 10 Ardu - IN3 LN298N
+-- Pin 11 Ardu -- IN4 LN298N
 */
 
 
