@@ -8,7 +8,7 @@ Panduan penyambungan telah disediakan di dalam kode. Pastikan untuk mengikuti in
 
 ## Kode Resources
 
-- [Arduino IDE Code](Sketchoct8-narls.cpp)
+- [Arduino IDE Code](Sketchoct8-narls.ino)
 - [Visual Basic Code](KodeVisualBasic.vbw)
 
 ## Dokumentasi
